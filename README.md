@@ -91,17 +91,6 @@ Le site est consulté par quatre types d’utilisateurs :
     
     L'application sera accessible à l'adresse `http://localhost:8000`.
 
-
-## 🖼️ How It Works
-
-1. **Menu Navigation**: Choose a difficulty level or read the backstory.
-2. **Gameplay**:
-    - Navigate using arrow keys.
-    - Reach the exit (house) to win.
-3. **Sound & Music**:
-    - Dynamic sound effects for actions.
-    - Victory sound on winning.
-
 --- 
 ## 📂 Project Structure
 
